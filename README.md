@@ -1,8 +1,19 @@
 # launch-weeks
 
-This repository lists past and upcoming launch weeks to help dev marketers.
+> What could be the worst possible nightmare for a dev marketer? To have your launch week the same week as Supabase?
 
-What could be the worst possible nightmare for a dev marketer? To have your launch week the same week as Supabase?
+[View on Twitter ↗︎](https://twitter.com/fmerian/status/1676270899576860672)
+
+**This repository lists past and upcoming launch weeks.**
+
+The objective? 
+
+- **For developers**, to save the date and discover awesome products;
+- **For dev marketers**, to help plan and promote their launch weeks and find inspiration.
+
+For best practices, read this: 
+
+[How we launch at Supabase ↗︎](https://supabase.com/blog/supabase-how-we-launch)
 
 ## upcoming
 
