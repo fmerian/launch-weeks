@@ -25,4 +25,5 @@ For best practices, read this:
 - 2023, April 10-14: Supabase Launch Week 7 ([announcement](https://twitter.com/supabase/status/1644388184413949952?s=20), [recap](https://supabase.com/launch-week))
 - 2023, March 6-13: Resend Launch Week 1 ([announcement](https://twitter.com/resendlabs/status/1631311901140582400?s=20), [recap](https://resend.com/blog/launch-week-1-wrap-up))
 - 2023, February 6-10: Liveblocks Launch Week 2 ([announcement](https://twitter.com/liveblocks/status/1620422958719315968?s=20), [recap](https://liveblocks.io/blog/launch-week-2-wrap-up))
+- 2022, August 15-19: Liveblocks Launch Week 1 ([announcement](https://twitter.com/liveblocks/status/1557366212547338243?s=20), [recap](https://liveblocks.io/blog/from-collaborative-spreadsheets-to-text-editors-make-your-product-multiplayer-with-liveblocks))
 - 2022, July 18-22: Raycast Launch Week ([announcement](https://twitter.com/raycastapp/status/1546518075691909124?s=20), [recap](https://www.raycast.com/blog/launch-week-summary))
