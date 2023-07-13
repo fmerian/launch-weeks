@@ -17,7 +17,7 @@ Awesome! Feel free to open a [Pull Request (PR)](https://github.com/fmerian/laun
 
 For best practices, read this: 
 
-[How we launch at Supabase ↗︎](https://supabase.com/blog/supabase-how-we-launch)
+[How we launch at Supabase (by Ant Wilson) ↗︎](https://supabase.com/blog/supabase-how-we-launch)
 
 ## upcoming
 
