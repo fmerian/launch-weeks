@@ -6,10 +6,14 @@
 
 **This repository lists past and upcoming launch weeks.**
 
-The objective? 
+**The objective?**
 
 - **For developers**, to save the date and discover awesome products;
 - **For dev marketers**, to help plan and promote their launch weeks and find inspiration.
+
+**Want to contribute?**
+
+Awesome! Feel free to open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add more launch weeks to the repo.
 
 For best practices, read this: 
 
