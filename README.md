@@ -33,3 +33,4 @@ For best practices, read this:
 - 2022, August 15-19: Liveblocks Launch Week 1 ([announcement](https://twitter.com/liveblocks/status/1557366212547338243?s=20), [recap](https://liveblocks.io/blog/from-collaborative-spreadsheets-to-text-editors-make-your-product-multiplayer-with-liveblocks))
 - 2022, August 15-19: Supabase Launch Week 5
 - 2022, July 18-22: Raycast Launch Week ([announcement](https://twitter.com/raycastapp/status/1546518075691909124?s=20), [recap](https://www.raycast.com/blog/launch-week-summary))
+- 2022, March 28-April 1: Supabase Launch Week 4 ([announcement](https://supabase.com/blog/supabase-launch-week-four))
