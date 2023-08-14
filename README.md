@@ -21,10 +21,9 @@ For best practices, read this:
 
 ## upcoming
 
-- 2023, August 7-11: Supabase Launch Week 8 ([teaser](https://twitter.com/supabase/status/1677283789582598145?s=20), [announcement](https://twitter.com/supabase/status/1683818718831185920?s=20))
-
 ## past
 
+- 2023, August 7-11: Supabase Launch Week 8 ([teaser](https://twitter.com/supabase/status/1677283789582598145?s=20), [announcement](https://twitter.com/supabase/status/1683818718831185920?s=20), [recap](https://twitter.com/supabase/status/1691043574488473600?s=20))
 - 2023, June 26-30: Wasp Launch Week 3 ([recap](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three))
 - 2023, April, 17-21: Tinybird Launch Week 2 ([teaser](https://twitter.com/tinybirdco/status/1645443033163259905?s=20))
 - 2023, April 12-17: Wasp Launch Week 2 ([recap](https://wasp-lang.dev/blog/2023/04/11/wasp-launch-week-two))
