@@ -21,6 +21,8 @@ For best practices, read this:
 
 ## upcoming
 
+- 2023, August 21-25: Warp Launch Week ([teaser](https://twitter.com/warpdotdev/status/1693631866580922447?s=20))
+
 ## past
 
 - 2023, August 7-11: Supabase Launch Week 8 ([teaser](https://twitter.com/supabase/status/1677283789582598145?s=20), [announcement](https://twitter.com/supabase/status/1683818718831185920?s=20), [recap](https://twitter.com/supabase/status/1691043574488473600?s=20))
