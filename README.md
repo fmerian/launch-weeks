@@ -30,6 +30,7 @@ For best practices, read this:
 - 2023, June 26-30: Wasp Launch Week 3 ([recap](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three))
 - 2023, April, 17-21: Tinybird Launch Week 2 ([teaser](https://twitter.com/tinybirdco/status/1645443033163259905?s=20))
 - 2023, April 12-17: Wasp Launch Week 2 ([recap](https://wasp-lang.dev/blog/2023/04/11/wasp-launch-week-two))
+- 2023, April 10-14: Livebook Launch Week ([announcement](https://twitter.com/livebookdev/status/1644414219390005248?s=20))
 - 2023, April 10-14: Supabase Launch Week 7 ([announcement](https://twitter.com/supabase/status/1644388184413949952?s=20), [recap](https://supabase.com/launch-week))
 - 2023, March 6-13: Resend Launch Week 1 ([announcement](https://twitter.com/resendlabs/status/1631311901140582400?s=20), [recap](https://resend.com/blog/launch-week-1-wrap-up))
 - 2023, February 28-March 4: Tinybird Launch Week 1
