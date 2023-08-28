@@ -21,6 +21,8 @@ For best practices, read this:
 
 ## upcoming
 
+- 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20))
+
 ## past
 
 - 2023, August 21-25: Warp Launch Week ([teaser](https://twitter.com/warpdotdev/status/1693631866580922447?s=20), [recap](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features))
