@@ -21,11 +21,11 @@ For best practices, read this:
 
 ## upcoming
 
-- 2023, September 4-8: Fine Launch Week ([Teaser](https://www.youtube.com/watch?v=SAGVXP4JEdE))
-- 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20))
+- 2023, September 4-8: Fine Launch Week ([teaser](https://www.youtube.com/watch?v=SAGVXP4JEdE))
 
 ## past
 
+- 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20), [recap](https://twitter.com/xata/status/1697942269574189238?s=20))
 - 2023, August 21-25: Warp Launch Week ([teaser](https://twitter.com/warpdotdev/status/1693631866580922447?s=20), [recap](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features))
 - 2023, August 7-11: Supabase Launch Week 8 ([teaser](https://twitter.com/supabase/status/1677283789582598145?s=20), [announcement](https://twitter.com/supabase/status/1683818718831185920?s=20), [recap](https://twitter.com/supabase/status/1691043574488473600?s=20))
 - 2023, July 3-7: Remotion Launch Week ([announcement](https://twitter.com/Remotion/status/1673336847768903685?s=20))
