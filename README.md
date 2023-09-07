@@ -4,6 +4,10 @@
 
 [View on Twitter ↗︎](https://twitter.com/fmerian/status/1676270899576860672)
 
+**What's a launch week?**
+
+It's a week of announcing new features. [See examples below](https://github.com/fmerian/launch-weeks/tree/main#past).
+
 **This repository lists past and upcoming launch weeks.**
 
 **The objective?**
@@ -20,8 +24,6 @@ For best practices, read this:
 [How we launch at Supabase (by Ant Wilson) ↗︎](https://supabase.com/blog/supabase-how-we-launch)
 
 ## upcoming
-
-- 2023, September 4-8: Fine Launch Week ([teaser](https://www.youtube.com/watch?v=SAGVXP4JEdE))
 
 ## past
 
