@@ -25,6 +25,8 @@ For best practices, read this:
 
 ## upcoming
 
+- 2023, September 11-15: Fine Launch Week (No announcement yet)
+
 ## past
 
 - 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20), [recap](https://twitter.com/xata/status/1697942269574189238?s=20))
