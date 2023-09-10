@@ -25,7 +25,7 @@ For best practices, read this:
 
 ## upcoming
 
-- 2023, September 11-15: Fine Launch Week (No announcement yet)
+- 2023, September 11-15: Fine Launch Week ([teaser](https://twitter.com/thisisfinedev/status/1700788560859738280))
 
 ## past
 
