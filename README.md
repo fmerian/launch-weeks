@@ -32,6 +32,7 @@ For best practices, read this:
 - 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20), [recap](https://twitter.com/xata/status/1697942269574189238?s=20))
 - 2023, August 21-25: Warp Launch Week ([teaser](https://twitter.com/warpdotdev/status/1693631866580922447?s=20), [recap](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features))
 - 2023, August 7-11: Supabase Launch Week 8 ([teaser](https://twitter.com/supabase/status/1677283789582598145?s=20), [announcement](https://twitter.com/supabase/status/1683818718831185920?s=20), [recap](https://twitter.com/supabase/status/1691043574488473600?s=20))
+- 2023, July 17-20: Depot Launch Week 1 ([announcement](https://twitter.com/depotdev/status/1680940913059667968?s=20), [recap](https://depot.dev/blog/drop-week-01))
 - 2023, July 3-7: Remotion Launch Week ([announcement](https://twitter.com/Remotion/status/1673336847768903685?s=20))
 - 2023, June 26-30: Wasp Launch Week 3 ([recap](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three))
 - 2023, April, 17-21: Tinybird Launch Week 2 ([teaser](https://twitter.com/tinybirdco/status/1645443033163259905?s=20))
