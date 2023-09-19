@@ -27,10 +27,10 @@ For best practices, read this:
 
 - 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
 - 2023, September 25-29: Turso Launch Week ([announcement](https://x.com/tursodatabase/status/1701687743842062622?s=20))
-- 2023, September 11-15: Fine Launch Week ([teaser](https://twitter.com/thisisfinedev/status/1700788560859738280), [announcement](https://twitter.com/thisisfinedev/status/1701227149061968340))
 
 ## past
 
+- 2023, September 11-15: Fine Launch Week ([teaser](https://twitter.com/thisisfinedev/status/1700788560859738280))
 - 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20), [recap](https://twitter.com/xata/status/1697942269574189238?s=20))
 - 2023, August 21-25: Warp Launch Week ([teaser](https://twitter.com/warpdotdev/status/1693631866580922447?s=20), [recap](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features))
 - 2023, August 7-11: Supabase Launch Week 8 ([teaser](https://twitter.com/supabase/status/1677283789582598145?s=20), [announcement](https://twitter.com/supabase/status/1683818718831185920?s=20), [recap](https://twitter.com/supabase/status/1691043574488473600?s=20))
