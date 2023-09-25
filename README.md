@@ -26,6 +26,7 @@ For best practices, read this:
 ## upcoming
 
 - 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
+- 2023, September 25-29: Railway Launch Week ([teaser](https://x.com/Railway/status/1704959789716119858?s=20))
 - 2023, September 25-29: Turso Launch Week ([announcement](https://x.com/tursodatabase/status/1701687743842062622?s=20))
 
 ## past
