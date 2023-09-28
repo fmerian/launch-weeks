@@ -52,6 +52,7 @@ For best practices, read this:
 - 2022, August 15-19: Supabase Launch Week 5
 - 2022, July 18-22: Raycast Launch Week ([announcement](https://twitter.com/raycastapp/status/1546518075691909124?s=20), [recap](https://www.raycast.com/blog/launch-week-summary))
 - 2022, March 28-April 1: Supabase Launch Week 4 ([announcement](https://supabase.com/blog/supabase-launch-week-four))
+- 2022, March 21-25: PostHog Launch Week ([recap](https://posthog.com/blog/launch-week-universe-of-new-features))
 - 2021, November 29-December 3: Supabase Launch Week 3 ([announcement](https://supabase.com/blog/supabase-launch-week-the-trilogy))
 - 2021, July 26-30: Supabase Launch Week 2 ([announcement](https://supabase.com/blog/supabase-launch-week-sql))
 - 2021, March 29-April 2: Supabase Launch Week 1 ([announcement](https://supabase.com/blog/launch-week))
