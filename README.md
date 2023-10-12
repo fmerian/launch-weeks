@@ -31,7 +31,7 @@ For best practices, read this:
 
 - 2023, September 25-29: Mintlify Launch Week ([announcement](https://x.com/mintlify/status/1706326969472962641?s=20), [recap](https://mintlify.com/blog/launch-week-wrapup))
 - 2023, September 25-29: Railway Launch Week ([teaser](https://x.com/Railway/status/1704959789716119858?s=20))
-- 2023, September 25-29: Turso Launch Week ([announcement](https://x.com/tursodatabase/status/1701687743842062622?s=20))
+- 2023, September 25-29: Turso Launch Week ([announcement](https://x.com/tursodatabase/status/1701687743842062622?s=20), [recap](https://blog.turso.tech/turso-launch-week-accelerates-growth-nets-1-5k-new-users-in-7-days-2829ed781dc2))
 - 2023, September 11-15: Fine Launch Week ([teaser](https://twitter.com/thisisfinedev/status/1700788560859738280))
 - 2023, August 28-September 1: Xata Launch Week ([announcement](https://twitter.com/xata/status/1696162078619320452?s=20), [recap](https://twitter.com/xata/status/1697942269574189238?s=20))
 - 2023, August 21-25: Warp Launch Week ([teaser](https://twitter.com/warpdotdev/status/1693631866580922447?s=20), [recap](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features))
