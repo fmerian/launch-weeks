@@ -25,6 +25,7 @@ For best practices, read this:
 
 ## upcoming
 
+- 2023, October 17-20: Sequin Launch Week
 - 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
 - 2023, October 16-22: Wasp Launch Week 4 ([preview](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four))
 
