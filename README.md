@@ -24,6 +24,7 @@ For best practices, read this:
 [How we launch at Supabase (by Ant Wilson) ↗︎](https://supabase.com/blog/supabase-how-we-launch)
 
 ## upcoming
+- 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20)
 
 ## past
 
