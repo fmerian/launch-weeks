@@ -25,14 +25,13 @@ For best practices, read this:
 
 ## upcoming
 
-- 2023, October 17-20: Sequin Launch Week
-- 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
-- 2023, October 16-22: Wasp Launch Week 4 ([preview](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four))
-
 ## past
 
 ### 2023
 
+- 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
+- 2023, October 17-20: Sequin Launch Week
+- 2023, October 16-22: Wasp Launch Week 4 ([preview](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four))
 - 2023, September 25-29: Mintlify Launch Week ([announcement](https://x.com/mintlify/status/1706326969472962641?s=20), [recap](https://mintlify.com/blog/launch-week-wrapup))
 - 2023, September 25-29: Railway Launch Week ([teaser](https://x.com/Railway/status/1704959789716119858?s=20))
 - 2023, September 25-29: Turso Launch Week ([announcement](https://x.com/tursodatabase/status/1701687743842062622?s=20), [recap](https://blog.turso.tech/turso-launch-week-accelerates-growth-nets-1-5k-new-users-in-7-days-2829ed781dc2))
