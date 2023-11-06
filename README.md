@@ -25,12 +25,12 @@ For best practices, read this:
 
 ## upcoming
 - 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20))
-- 2023, October 30 - November 3: Outerbase Launch Week ([announcement](https://x.com/outerbase/status/1719053301407203755?s=20))
 
 ## past
 
 ### 2023
 
+- 2023, October 30 - November 3: Outerbase Launch Week ([announcement](https://x.com/outerbase/status/1719053301407203755?s=20))
 - 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
 - 2023, October 17-20: Sequin Launch Week
 - 2023, October 16-22: Wasp Launch Week 4 ([preview](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four))
