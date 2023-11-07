@@ -1,30 +1,32 @@
 # launch-weeks
 
+## upcoming
+- 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20))
+
+## intro
+
 > What could be the worst possible nightmare for a dev marketer? To have your launch week the same week as Supabase?
 
-[View on Twitter ↗︎](https://twitter.com/fmerian/status/1676270899576860672)
+[View on X ↗︎](https://x.com/fmerian/status/1676270899576860672)
 
-**What's a launch week?**
+### **what's a launch week?**
 
 It's a week of announcing new features. [See examples below](#past-launch-weeks).
 
 **This repository lists past and upcoming launch weeks.**
 
-**The objective?**
+### **the objective?**
 
 - **For developers**, to save the date and discover awesome products;
 - **For dev marketers**, to help plan and promote their launch weeks and find inspiration.
 
-**Want to contribute?**
+### **want to contribute?**
 
 Awesome! Feel free to open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add more launch weeks to the repo.
 
 For best practices, read this: 
 
 [How we launch at Supabase (by Ant Wilson) ↗︎](https://supabase.com/blog/supabase-how-we-launch)
-
-## upcoming launch weeks
-- 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20))
 
 ## leaderboard
 
