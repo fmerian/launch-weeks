@@ -6,7 +6,7 @@
 
 **What's a launch week?**
 
-It's a week of announcing new features. [See examples below](https://github.com/fmerian/launch-weeks/tree/main#past).
+It's a week of announcing new features. [See examples below](https://github.com/fmerian/launch-weeks/tree/main#past-launch-weeks).
 
 **This repository lists past and upcoming launch weeks.**
 
@@ -23,10 +23,18 @@ For best practices, read this:
 
 [How we launch at Supabase (by Ant Wilson) ↗︎](https://supabase.com/blog/supabase-how-we-launch)
 
-## upcoming
+## upcoming launch weeks
 - 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20))
 
-## past
+## leaderboard
+
+> ranked by number of launch weeks
+
+1. **Supabase**: 8
+2. **Wasp**: 4
+3. **Depot, Payload, Tinybird**: 2
+
+## past launch weeks
 
 ### 2023
 
