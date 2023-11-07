@@ -6,7 +6,7 @@
 
 **What's a launch week?**
 
-It's a week of announcing new features. [See examples below](https://github.com/fmerian/launch-weeks/tree/main#past-launch-weeks).
+It's a week of announcing new features. [See examples below](#past-launch-weeks).
 
 **This repository lists past and upcoming launch weeks.**
 
@@ -35,6 +35,8 @@ For best practices, read this:
 3. **Depot, Payload, Tinybird**: 2
 
 ## past launch weeks
+
+> quick links: [2023](#2023) - [2022](#2022) - [2021](#2021)
 
 ### 2023
 
