@@ -45,6 +45,7 @@ For best practices, read this:
 - 2023, July 17-20: Depot Launch Week 1 ([announcement](https://twitter.com/depotdev/status/1680940913059667968?s=20), [recap](https://depot.dev/blog/drop-week-01))
 - 2023, July 3-7: Remotion Launch Week ([announcement](https://twitter.com/Remotion/status/1673336847768903685?s=20))
 - 2023, June 26-30: Wasp Launch Week 3 ([recap](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three))
+- 2023, April 17-23: Grafbase Launch Week ([teaser](https://twitter.com/grafbase/status/1640439800338456586?s=20))
 - 2023, April, 17-21: Tinybird Launch Week 2 ([teaser](https://twitter.com/tinybirdco/status/1645443033163259905?s=20))
 - 2023, April 12-17: Wasp Launch Week 2 ([recap](https://wasp-lang.dev/blog/2023/04/11/wasp-launch-week-two))
 - 2023, April 10-14: Livebook Launch Week ([announcement](https://twitter.com/livebookdev/status/1644414219390005248?s=20))
