@@ -43,6 +43,8 @@ For best practices, read this:
 
 ### 2023
 
+> Total count: 25
+
 - 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20), [recap](https://blog.dopt.com/nov-2023-launch-week))
 - 2023, October 30 - November 3: Outerbase Launch Week ([announcement](https://x.com/outerbase/status/1719053301407203755?s=20))
 - 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
@@ -73,6 +75,8 @@ For best practices, read this:
 
 ### 2022
 
+> Total count: 9
+
 - 2022, December 12-16: Supabase Launch Week 6 ([recap](https://supabase.com/blog/launch-week-6-wrap-up))
 - 2022, November 27-December 2: Wasp Launch Week 1 ([announcement](https://wasp-lang.dev/blog/2022/11/26/wasp-beta-launch-week))
 - 2022, November 14-18: Payload Launch Week 1 ([announcement](https://payloadcms.com/blog/launch-week)]
@@ -86,6 +90,8 @@ For best practices, read this:
 [Back to top ↑](#past-launch-weeks)
 
 ### 2021
+
+> Total count: 3
 
 - 2021, November 29-December 3: Supabase Launch Week 3 ([announcement](https://supabase.com/blog/supabase-launch-week-the-trilogy))
 - 2021, July 26-30: Supabase Launch Week 2 ([announcement](https://supabase.com/blog/supabase-launch-week-sql))
