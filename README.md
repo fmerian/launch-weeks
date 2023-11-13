@@ -1,7 +1,8 @@
 # launch-weeks
 
 ## upcoming
-- 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20))
+> You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here.
+- 
 
 ## intro
 
@@ -30,7 +31,7 @@ For best practices, read this:
 
 ## leaderboard
 
-> ranked by number of launch weeks
+> Ranked by number of launch weeks
 
 1. **Supabase**: 8
 2. **Wasp**: 4
@@ -38,10 +39,11 @@ For best practices, read this:
 
 ## past launch weeks
 
-> quick links: [2023](#2023) - [2022](#2022) - [2021](#2021)
+> Quick links: [2023](#2023) - [2022](#2022) - [2021](#2021)
 
 ### 2023
 
+- 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20), [recap](https://blog.dopt.com/nov-2023-launch-week))
 - 2023, October 30 - November 3: Outerbase Launch Week ([announcement](https://x.com/outerbase/status/1719053301407203755?s=20))
 - 2023, October 17-20: Depot Launch Week 2 ([teaser](https://x.com/kylegalbraith/status/1701595820272042371?s=20))
 - 2023, October 17-20: Sequin Launch Week
