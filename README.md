@@ -1,7 +1,7 @@
 # launch-weeks
 
 ## upcoming
-> You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here.
+> You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here. Enjoy!
 - 
 
 ## intro
@@ -69,6 +69,8 @@ For best practices, read this:
 - 2023, February 28-March 4: Tinybird Launch Week 1
 - 2023, February 6-10: Liveblocks Launch Week 2 ([announcement](https://twitter.com/liveblocks/status/1620422958719315968?s=20), [recap](https://liveblocks.io/blog/launch-week-2-wrap-up))
 
+[Back to top ↑](#past-launch-weeks)
+
 ### 2022
 
 - 2022, December 12-16: Supabase Launch Week 6 ([recap](https://supabase.com/blog/launch-week-6-wrap-up))
@@ -81,8 +83,12 @@ For best practices, read this:
 - 2022, March 28-April 1: Supabase Launch Week 4 ([announcement](https://supabase.com/blog/supabase-launch-week-four))
 - 2022, March 21-25: PostHog Launch Week ([recap](https://posthog.com/blog/launch-week-universe-of-new-features))
 
+[Back to top ↑](#past-launch-weeks)
+
 ### 2021
 
 - 2021, November 29-December 3: Supabase Launch Week 3 ([announcement](https://supabase.com/blog/supabase-launch-week-the-trilogy))
 - 2021, July 26-30: Supabase Launch Week 2 ([announcement](https://supabase.com/blog/supabase-launch-week-sql))
 - 2021, March 29-April 2: Supabase Launch Week 1 ([announcement](https://supabase.com/blog/launch-week))
+
+[Back to top ↑](#past-launch-weeks)
