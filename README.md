@@ -2,7 +2,7 @@
 
 ## upcoming
 > You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here. Enjoy!
-- 
+- 2023, December 11-15: Supabase Launch Week X ([teaser](https://x.com/supabase/status/1721597859559010811?s=20))
 
 ## intro
 
