@@ -16,7 +16,7 @@ It's a week of announcing new features. [See examples below](#past-launch-weeks)
 
 **This repository lists past and upcoming launch weeks.**
 
-### **the objective?**
+### **objectives**
 
 - **For developers**, to save the date and discover awesome products;
 - **For dev marketers**, to help plan and promote their launch weeks and find inspiration.
@@ -24,6 +24,8 @@ It's a week of announcing new features. [See examples below](#past-launch-weeks)
 ### **want to contribute?**
 
 Awesome! Feel free to open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add more launch weeks to the repo.
+
+### **about**
 
 For best practices, read this: 
 
@@ -43,7 +45,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 25
+> Total count: 26
 
 - 2023, November 6-10: Dopt Launch Week ([announcement](https://x.com/doptcom/status/1716866300730093736?s=20), [recap](https://blog.dopt.com/nov-2023-launch-week))
 - 2023, October 30 - November 3: Outerbase Launch Week ([announcement](https://x.com/outerbase/status/1719053301407203755?s=20))
