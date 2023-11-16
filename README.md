@@ -3,6 +3,7 @@
 ## upcoming
 > You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here. Enjoy!
 - [2023](#2023) / [12](#2023-12) / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811?s=20)
+- [2023](#2023) / [11](#2023-11) / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 
 ## intro
 
@@ -35,7 +36,7 @@ For best practices, read this:
 
 > Ranked by number of launch weeks
 
-1. **Supabase**: 8
+1. **Supabase**: 9
 2. **Wasp**: 4
 3. **Depot, Payload, Tinybird**: 2
 
@@ -45,7 +46,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 27
+> Total count: 28
 
 #### 2023-12
 
@@ -53,6 +54,7 @@ For best practices, read this:
 
 #### 2023-11
 
+- 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736?s=20) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
 
 #### 2023-10
