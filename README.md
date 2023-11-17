@@ -106,7 +106,7 @@ For best practices, read this:
 - 2023 / 02 / 28-04: Tinybird Launch Week #1.
 - 2023 / 02 / 06-10: Liveblocks Launch Week #2. [Read the announcement ↗︎](https://twitter.com/liveblocks/status/1620422958719315968?s=20) [Read the recap ↗︎](https://liveblocks.io/blog/launch-week-2-wrap-up)
 
-[Back to top ↑](#past-launch-weeks)
+[Back to top ↑](#past-launch-weeks) [Edit this page](https://github.com/fmerian/launch-weeks/issues)
 
 ### 2022
 
@@ -139,7 +139,7 @@ For best practices, read this:
 - 2022 / 03 / 28-01: Supabase Launch Week #4. [Read the announcement ↗︎](https://supabase.com/blog/supabase-launch-week-four)
 - 2022 / 03 / 21-25: PostHog Launch Week. [Read the recap ↗︎](https://posthog.com/blog/launch-week-universe-of-new-features)
 
-[Back to top ↑](#past-launch-weeks)
+[Back to top ↑](#past-launch-weeks) [Edit this page](https://github.com/fmerian/launch-weeks/issues)
 
 ### 2021
 
@@ -157,4 +157,4 @@ For best practices, read this:
 
 - 2021 / 03 / 29-02: Supabase Launch Week #1. [Read the announcement ↗︎](https://supabase.com/blog/launch-week)
 
-[Back to top ↑](#past-launch-weeks)
+[Back to top ↑](#past-launch-weeks) [Edit this page](https://github.com/fmerian/launch-weeks/issues)
