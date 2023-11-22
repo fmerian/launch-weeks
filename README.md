@@ -3,7 +3,6 @@
 ## upcoming
 > You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here. Enjoy!
 - [2023](#2023) / [12](#2023-12) / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811)
-- [2023](#2023) / [11](#2023-11) / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 
 ## intro
 
