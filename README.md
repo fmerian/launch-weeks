@@ -1,5 +1,9 @@
 # launch-weeks
 
+**Note: Switching to `supabase-community/launchweek.dev`. [Star this repo!](https://github.com/supabase-community/launchweek.dev)**
+
+---
+
 ## upcoming
 > You? Open a [Pull Request (PR)](https://github.com/fmerian/launch-weeks/pulls) to add your upcoming launch week here. Enjoy!
 - [2023](#2023) / [12](#2023-12) / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811)
